@@ -21,6 +21,8 @@ Free  Exam Voucher
 אתר עם שאלות בחינה
 [/](https://www.examtopics.com/) [h](https://www.examtopics.com/)[ttps://www.examtopics.com](https://www.examtopics.com/)
 
+עוד אתר מעניין על שירותי הענן של מיקרוסופט
+https://azureservices.io/#
 
 CISO WORKSHOP
 
