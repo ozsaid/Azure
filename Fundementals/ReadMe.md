@@ -27,3 +27,5 @@ https://azureservices.io/#
 CISO WORKSHOP
 
 [https://docs.microsoft.com/en](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide)[-](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide)[us/security/ciso](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide)[-](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide)[workshop/ciso](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide)[-](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide)[workshop?view=o365](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide)[](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide)
+
+https://azurecharts.com/overview
