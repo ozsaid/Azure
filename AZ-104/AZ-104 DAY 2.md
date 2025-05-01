@@ -66,7 +66,9 @@ https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-r
 
 להבין את ההבדל בין ROLES שקשורים ל AZURE ובין אלה שקשורים ל ENTRAID
 
-![[Pasted image 20250501232517.png]]https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%2014
+![image](https://github.com/user-attachments/assets/668c22fb-dcf1-4502-a20d-d9bf3d1a7770)
+
+https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%2014
 https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%202
 
 #### נושא : ניהול מכונות וירטואליות - מודול 8
@@ -108,7 +110,7 @@ https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-ava
 
  אם אנחנו רוצים לקבל יתירות גבוהה יותר אנו יכולים לפזר את המכונות שלנו על כמה DATA CENTERS וכך להבטיח המשכיות גם אם ייפול DATACENTER שלם ב REGION שבחרנו 
  https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/5-review-availability-zones
- ![[Pasted image 20250502000204.png]]
+![image](https://github.com/user-attachments/assets/30c7530c-e574-4bee-b58c-742dcef7587d)
 
 
 ##### **דרך שלישית  :SCALESET** 
@@ -125,4 +127,5 @@ https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-ava
 
 פרק 9 בספר ששלחתי לכם מסביר על הנושא 
 https://marketingassets.microsoft.com/gdc/2014519/original
-![[Pasted image 20250502001042.png]]
+
+![image](https://github.com/user-attachments/assets/4b8783c9-13c2-4a31-8e8e-3c069504a9d1)
